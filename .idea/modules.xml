@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/DaireAlanHesaplama/DaireAlanHesaplama.iml" filepath="$PROJECT_DIR$/DaireAlanHesaplama/DaireAlanHesaplama.iml" />
       <module fileurl="file://$PROJECT_DIR$/KdvHesaplama/KdvHesaplama.iml" filepath="$PROJECT_DIR$/KdvHesaplama/KdvHesaplama.iml" />
       <module fileurl="file://$PROJECT_DIR$/UcgenAlanHesaplama/UcgenAlanHesaplama.iml" filepath="$PROJECT_DIR$/UcgenAlanHesaplama/UcgenAlanHesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VucutKitleHesaplama/VucutKitleHesaplama.iml" filepath="$PROJECT_DIR$/VucutKitleHesaplama/VucutKitleHesaplama.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/patika.dev.iml" filepath="$PROJECT_DIR$/.idea/patika.dev.iml" />
       <module fileurl="file://$PROJECT_DIR$/NotOrtalamaHesaplama/src.iml" filepath="$PROJECT_DIR$/NotOrtalamaHesaplama/src.iml" />
     </modules>
