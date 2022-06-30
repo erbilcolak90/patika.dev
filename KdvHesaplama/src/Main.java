@@ -13,7 +13,7 @@ public class Main {
 
 
         // KDV tipini girilen tutara göre belirleyeceğiz.
-        boolean kdvTipi = (0<girilenTutar) && (1001> girilenTutar);
+        boolean kdvTipi = (0<=girilenTutar) && (1000>= girilenTutar);
         kdvOran = kdvTipi ? 0.18 : 0.08;
 
         kdvTutar = girilenTutar * kdvOran ;
