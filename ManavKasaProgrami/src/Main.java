@@ -36,12 +36,5 @@ public class Main {
 
         System.out.println("Toplam tutar : " + toplamTutar);
 
-
-
-
-
-
-
-
     }
 }
