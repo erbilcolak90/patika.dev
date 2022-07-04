@@ -19,25 +19,25 @@ public class Main {
 
         if(a < b && a < c){
             if(b < c){
-                System.out.println("Büyükten küçüğe doğru sıralama " + c +">"+b+">"+a );
+                System.out.println("Küçükten Büyüğe Doğru Siralama " + a +"<"+b+"<"+ c );
             }
             else {
-                System.out.println("Büyükten küçüğe doğru sıralama " + b +">"+ c +">"+a );
+                System.out.println("Küçükten Büyüğe Doğru Siralama " + a +"<"+ c +"<"+b );
             }
         } else if (b < a && b < c) {
             if(a < c){
-                System.out.println("Büyükten küçüğe doğru sıralama " + c +">"+a+">"+b );
+                System.out.println("Küçükten Büyüğe Doğru Siralama " + b +"<"+ a +"<"+c );
             }
             else {
-                System.out.println("Büyükten küçüğe doğru sıralama " + a +">"+ c +">"+b );
+                System.out.println("Küçükten Büyüğe Doğru Siralama " + b +"<"+ c +"<"+a );
             }
         }
         else if (c < a && c < b ){
             if(a < b){
-                System.out.println("Büyükten küçüğe doğru sıralama " + b +">"+ a +">"+c );
+                System.out.println("Küçükten Büyüğe Doğru Siralama " + c +"<"+ a +"<"+b );
             }
             else {
-                System.out.println("Büyükten küçüğe doğru sıralama " + a +">"+ b +">"+c );
+                System.out.println("Küçükten Büyüğe Doğru Siralama " + c +"<"+ b +"<"+a );
             }
         }
 
