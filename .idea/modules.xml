@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayMaxAndMin/ArrayMaxAndMin.iml" filepath="$PROJECT_DIR$/ArrayMaxAndMin/ArrayMaxAndMin.iml" />
       <module fileurl="file://$PROJECT_DIR$/ArraydekiElemanOrtalamasi/ArraydekiElemanOrtalamasi.iml" filepath="$PROJECT_DIR$/ArraydekiElemanOrtalamasi/ArraydekiElemanOrtalamasi.iml" />
       <module fileurl="file://$PROJECT_DIR$/ArtikYilHesaplama/ArtikYilHesaplama.iml" filepath="$PROJECT_DIR$/ArtikYilHesaplama/ArtikYilHesaplama.iml" />
       <module fileurl="file://$PROJECT_DIR$/AsalSayiBulma/AsalSayiBulma.iml" filepath="$PROJECT_DIR$/AsalSayiBulma/AsalSayiBulma.iml" />
