@@ -3,20 +3,35 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ArtikYilHesaplama/ArtikYilHesaplama.iml" filepath="$PROJECT_DIR$/ArtikYilHesaplama/ArtikYilHesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AsalSayiBulma/AsalSayiBulma.iml" filepath="$PROJECT_DIR$/AsalSayiBulma/AsalSayiBulma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BasamakToplami/BasamakToplami.iml" filepath="$PROJECT_DIR$/BasamakToplami/BasamakToplami.iml" />
       <module fileurl="file://$PROJECT_DIR$/BurcBulanProgram/BurcBulanProgram.iml" filepath="$PROJECT_DIR$/BurcBulanProgram/BurcBulanProgram.iml" />
       <module fileurl="file://$PROJECT_DIR$/CinZodyagi/CinZodyagi.iml" filepath="$PROJECT_DIR$/CinZodyagi/CinZodyagi.iml" />
       <module fileurl="file://$PROJECT_DIR$/DaireAlanHesaplama/DaireAlanHesaplama.iml" filepath="$PROJECT_DIR$/DaireAlanHesaplama/DaireAlanHesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EbobEkok/EbobEkok.iml" filepath="$PROJECT_DIR$/EbobEkok/EbobEkok.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FibonacciSerisi/FibonacciSerisi.iml" filepath="$PROJECT_DIR$/FibonacciSerisi/FibonacciSerisi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GirilenSayiyaKadar4ve5inKuvvetiniYazdirma/GirilenSayiyaKadar4ve5inKuvvetiniYazdirma.iml" filepath="$PROJECT_DIR$/GirilenSayiyaKadar4ve5inKuvvetiniYazdirma/GirilenSayiyaKadar4ve5inKuvvetiniYazdirma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HarmonikHesaplama/HarmonikHesaplama.iml" filepath="$PROJECT_DIR$/HarmonikHesaplama/HarmonikHesaplama.iml" />
       <module fileurl="file://$PROJECT_DIR$/HavaSicakliginaGoreEtkinlik/HavaSicakliginaGoreEtkinlik.iml" filepath="$PROJECT_DIR$/HavaSicakliginaGoreEtkinlik/HavaSicakliginaGoreEtkinlik.iml" />
       <module fileurl="file://$PROJECT_DIR$/HesapMakinesiSwitchCase/HesapMakinesiSwitchCase.iml" filepath="$PROJECT_DIR$/HesapMakinesiSwitchCase/HesapMakinesiSwitchCase.iml" />
       <module fileurl="file://$PROJECT_DIR$/KdvHesaplama/KdvHesaplama.iml" filepath="$PROJECT_DIR$/KdvHesaplama/KdvHesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kombinasyon/Kombinasyon.iml" filepath="$PROJECT_DIR$/Kombinasyon/Kombinasyon.iml" />
       <module fileurl="file://$PROJECT_DIR$/KullaniciGirisi/KullaniciGirisi.iml" filepath="$PROJECT_DIR$/KullaniciGirisi/KullaniciGirisi.iml" />
       <module fileurl="file://$PROJECT_DIR$/ManavKasaProgrami/ManavKasaProgrami.iml" filepath="$PROJECT_DIR$/ManavKasaProgrami/ManavKasaProgrami.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinVeMaxDegerleriBulma/MinVeMaxDegerleriBulma.iml" filepath="$PROJECT_DIR$/MinVeMaxDegerleriBulma/MinVeMaxDegerleriBulma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MukemmelSayiBulma/MukemmelSayiBulma.iml" filepath="$PROJECT_DIR$/MukemmelSayiBulma/MukemmelSayiBulma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PalindromSayi/PalindromSayi.iml" filepath="$PROJECT_DIR$/PalindromSayi/PalindromSayi.iml" />
       <module fileurl="file://$PROJECT_DIR$/SayilariKucuktenBuyugeGoreSiralama/SayilariKucuktenBuyugeGoreSiralama.iml" filepath="$PROJECT_DIR$/SayilariKucuktenBuyugeGoreSiralama/SayilariKucuktenBuyugeGoreSiralama.iml" />
       <module fileurl="file://$PROJECT_DIR$/SifirdanGirilensayiyakadar3-4eTambolunensayilarOrtalamasi/SifirdanGirilensayiyakadar3-4eTambolunensayilarOrtalamasi.iml" filepath="$PROJECT_DIR$/SifirdanGirilensayiyakadar3-4eTambolunensayilarOrtalamasi/SifirdanGirilensayiyakadar3-4eTambolunensayilarOrtalamasi.iml" />
       <module fileurl="file://$PROJECT_DIR$/SinifGecmeDurumu/SinifGecmeDurumu.iml" filepath="$PROJECT_DIR$/SinifGecmeDurumu/SinifGecmeDurumu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwitchCaseATM/SwitchCaseATM.iml" filepath="$PROJECT_DIR$/SwitchCaseATM/SwitchCaseATM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TekSayiGirileneKadar/TekSayiGirileneKadar.iml" filepath="$PROJECT_DIR$/TekSayiGirileneKadar/TekSayiGirileneKadar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TersUcgenYapimi/TersUcgenYapimi.iml" filepath="$PROJECT_DIR$/TersUcgenYapimi/TersUcgenYapimi.iml" />
       <module fileurl="file://$PROJECT_DIR$/UcakBiletiFiyatiHesaplama/UcakBiletiFiyatiHesaplama.iml" filepath="$PROJECT_DIR$/UcakBiletiFiyatiHesaplama/UcakBiletiFiyatiHesaplama.iml" />
       <module fileurl="file://$PROJECT_DIR$/UcgenAlanHesaplama/UcgenAlanHesaplama.iml" filepath="$PROJECT_DIR$/UcgenAlanHesaplama/UcgenAlanHesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UsluSayiHesaplama/UsluSayiHesaplama.iml" filepath="$PROJECT_DIR$/UsluSayiHesaplama/UsluSayiHesaplama.iml" />
       <module fileurl="file://$PROJECT_DIR$/VucutKitleHesaplama/VucutKitleHesaplama.iml" filepath="$PROJECT_DIR$/VucutKitleHesaplama/VucutKitleHesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YildizliElmas/YildizliElmas.iml" filepath="$PROJECT_DIR$/YildizliElmas/YildizliElmas.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/patika.dev.iml" filepath="$PROJECT_DIR$/.idea/patika.dev.iml" />
       <module fileurl="file://$PROJECT_DIR$/NotOrtalamaHesaplama/src.iml" filepath="$PROJECT_DIR$/NotOrtalamaHesaplama/src.iml" />
     </modules>
