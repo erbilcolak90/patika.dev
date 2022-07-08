@@ -43,17 +43,17 @@ public class MineSweeper {
     }
     void oyunHaritasiniYazdir() {
         System.out.println("Mayın Tarlasının Konumu");
-        minePosition(); // ile yıldızları oluşturduğumuz metodu çağırdık, işlemler oyunharitasında
+        minePosition();
         for (int i = 0; i < oyunHaritasi.length; i++) {
             for (int j = 0; j < oyunHaritasi[0].length; j++) {
-                if (oyunHaritasi[i][j] != '*') { // ile yıldız olmayan yerlere - bastık
+                if (oyunHaritasi[i][j] != '*') {
                     oyunHaritasi[i][j] = '-';
                 }
                 System.out.print(oyunHaritasi[i][j] + " ");
             }
             System.out.println();
         }
-        System.out.println("==============================");
+        System.out.println("*-*-*-*-*-*-*");
     }
 
     void oyunTahtasindakiEleman() {
@@ -79,7 +79,7 @@ public class MineSweeper {
     void kullaniciGirilenBilgi() { // Kullanıcıdan bilgi alma
         boolean isTrue = false;
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Seçmek istediğiniz noktanın koordinat bilgisini satır ve sutun olarak girin");
+        System.out.println("İstediğiniz noktanın koordinat bilgisini satır ve sutun olarak girin");
         System.out.print("Satır girin:");
         satir = (scanner.nextInt() - 1);
         System.out.print("Sutun girin:");
