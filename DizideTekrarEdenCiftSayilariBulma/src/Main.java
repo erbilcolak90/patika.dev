@@ -7,7 +7,7 @@ public class Main {
 
         Scanner scanner = new Scanner(System.in);
 
-        int[] array = {11,12,12,11,85,75,44,85,92};
+        int[] array = {14,12,14,22,12,22,44,12,92};
 
         int[] repeatArray = new int[9];
 
@@ -41,7 +41,10 @@ public class Main {
         for(int i = 0 ; i< array.length ; i++){
             if(repeatArray[i] > 1){
                 if(array[i] != 0){
-                    System.out.println(array[i] + " sayı " + repeatArray[i] + " kez tekrar etti ");
+                    if(array[i] % 2 == 0){
+                        System.out.println(array[i] + " sayısı 2 ye bölünmekte olup " + repeatArray[i] + " kez tekrar etti ");
+                    }
+
                 }
             }
         }

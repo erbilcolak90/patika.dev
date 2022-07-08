@@ -48,6 +48,7 @@
       <module fileurl="file://$PROJECT_DIR$/YildizliElmas/YildizliElmas.iml" filepath="$PROJECT_DIR$/YildizliElmas/YildizliElmas.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/patika.dev.iml" filepath="$PROJECT_DIR$/.idea/patika.dev.iml" />
       <module fileurl="file://$PROJECT_DIR$/NotOrtalamaHesaplama/src.iml" filepath="$PROJECT_DIR$/NotOrtalamaHesaplama/src.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
     </modules>
   </component>
 </project>
