@@ -35,6 +35,7 @@
       <module fileurl="file://$PROJECT_DIR$/PalindromSayi/PalindromSayi.iml" filepath="$PROJECT_DIR$/PalindromSayi/PalindromSayi.iml" />
       <module fileurl="file://$PROJECT_DIR$/RecursiveAsalSayiBulma/RecursiveAsalSayiBulma.iml" filepath="$PROJECT_DIR$/RecursiveAsalSayiBulma/RecursiveAsalSayiBulma.iml" />
       <module fileurl="file://$PROJECT_DIR$/RecursiveUsluSayiHesaplama/RecursiveUsluSayiHesaplama.iml" filepath="$PROJECT_DIR$/RecursiveUsluSayiHesaplama/RecursiveUsluSayiHesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SayiTahminOyunu/SayiTahminOyunu.iml" filepath="$PROJECT_DIR$/SayiTahminOyunu/SayiTahminOyunu.iml" />
       <module fileurl="file://$PROJECT_DIR$/SayilariKucuktenBuyugeGoreSiralama/SayilariKucuktenBuyugeGoreSiralama.iml" filepath="$PROJECT_DIR$/SayilariKucuktenBuyugeGoreSiralama/SayilariKucuktenBuyugeGoreSiralama.iml" />
       <module fileurl="file://$PROJECT_DIR$/SifirdanGirilensayiyakadar3-4eTambolunensayilarOrtalamasi/SifirdanGirilensayiyakadar3-4eTambolunensayilarOrtalamasi.iml" filepath="$PROJECT_DIR$/SifirdanGirilensayiyakadar3-4eTambolunensayilarOrtalamasi/SifirdanGirilensayiyakadar3-4eTambolunensayilarOrtalamasi.iml" />
       <module fileurl="file://$PROJECT_DIR$/SinifGecmeDurumu/SinifGecmeDurumu.iml" filepath="$PROJECT_DIR$/SinifGecmeDurumu/SinifGecmeDurumu.iml" />
@@ -48,7 +49,6 @@
       <module fileurl="file://$PROJECT_DIR$/YildizliElmas/YildizliElmas.iml" filepath="$PROJECT_DIR$/YildizliElmas/YildizliElmas.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/patika.dev.iml" filepath="$PROJECT_DIR$/.idea/patika.dev.iml" />
       <module fileurl="file://$PROJECT_DIR$/NotOrtalamaHesaplama/src.iml" filepath="$PROJECT_DIR$/NotOrtalamaHesaplama/src.iml" />
-      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
     </modules>
   </component>
 </project>
